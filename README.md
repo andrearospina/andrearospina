@@ -1,16 +1,29 @@
-### Hi there 👋
+### 👋Hi, I'm Andrea and here you will find some projects where I use my knowledge of:
 
-<!--
-**andrearospina/andrearospina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🐍 BackEnd**
 
-Here are some ideas to get you started:
+* Python 
+* PHP 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎨 FrontEnd**
+
+* HTML 
+* CSS 
+* JavaScript 
+
+**🐘 DataBases**
+
+* MySQL
+* PostgreSQL
+
+**🎯 Data Visualization**
+
+* Tableau 
+* PowerBI
+* Excel
+* Google Data Studio
+* Google Analytics
+* Google Search Console
+
+
+👩‍💻 Learn more about me on [LinkedIn](https://www.linkedin.com/in/andrearospina/) and www.librodil.com
