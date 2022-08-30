@@ -1,4 +1,4 @@
-### 👋Hi, I'm Andrea and here you will find some projects where I use my knowledge of:
+### Hi, I'm Andrea and here you will find some projects where I use my knowledge of:
 
 **🐍 BackEnd**
 
