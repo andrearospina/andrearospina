@@ -9,7 +9,8 @@
 
 * HTML 
 * CSS 
-* JavaScript 
+* JavaScript
+* Figma
 
 **🐘 Databases**
 
@@ -21,7 +22,7 @@
 * Tableau 
 * PowerBI
 * Excel
-* Google Data Studio
+* Looker Studio
 * Google Analytics
 * Google Search Console
 
