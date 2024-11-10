@@ -1,17 +1,17 @@
 ### Hi, I'm Andrea, and here you will find some of my projects on:
 
-**🐍 BackEnd**
+**🐍 Back End**
 
 * Python 
 * PHP 
 
-**🎨 FrontEnd**
+**🎨 Front End**
 
 * HTML 
 * CSS 
 * JavaScript 
 
-**🐘 DataBases**
+**🐘 Databases**
 
 * MySQL
 * PostgreSQL
