@@ -11,6 +11,7 @@
 * CSS 
 * JavaScript
 * Figma
+* Balsamiq Wireframes
 
 **🐘 Databases**
 
